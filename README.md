@@ -1,26 +1,35 @@
-<!-- Animated Banner (hosted externally, update URL with your own GIF) -->
 <h1 align="center">Hi, I'm Raeen Fatima 👋</h1>
 <h3 align="center"><i>Cybersecurity & Cloud Explorer | Full-Stack Developer</i></h3>
+
+
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/81/29/92/812992f44a2cd6e6787b8b61209abf48.png?nii=t" alt="Raeen Fatima | Cybersecurity & Cloud Explorer | Full-Stack Developer" width="800"/>
+  <b>🚀 BCA Student | Dreaming Big in Tech!</b><br>
+  Exploring cybersecurity and cloud computing, building full-stack apps, and sharing knowledge.<br>
+  I believe in lifelong learning and creating secure, scalable solutions for tomorrow.<br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1100&color=20B2AA&center=true&vCenter=true&width=380&lines=Cybersecurity+Explorer;Cloud+Computing+Enthusiast;Full-Stack+Developer;Tech+Learner+%26+Sharer" alt="Typing SVG" />
+</p>
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/81/29/92/812992f44a2cd6e6787b8b61209abf48.png?nii=t" alt="Raeen Fatima | Cybersecurity & Cloud Explorer | Full-Stack Developer" width="600"/>
 </p>
 
 
 
----
 
-<!-- Short Catchy Intro -->
+
+
+
+
+
+## 📈 GitHub Stats
+
 <p align="center">
-  🚀 Passionate BCA student driven by curiosity for <b>cybersecurity</b> and <b>cloud computing</b>.<br>
-  I love building full-stack applications, exploring new tech, and making the digital world safer.<br>
-  Always learning, always sharing!
+  <img src="https://github-readme-stats.vercel.app/api?username=raeen-fatima&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=raeen-fatima&theme=radical" alt="GitHub Streak"/> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raeen-fatima&theme=react-dark" alt="Contribution Graph"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raeen-fatima&theme=radical&layout=compact" alt="Top Languages"/> -->
 </p>
-
----
-
-
-
-
 
 
 
@@ -38,7 +47,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <b><i>"Stay curious, keep building, never stop growing."</i></b>
@@ -50,4 +58,5 @@
 
 <!-- 
 Tip: Replace image/GIF URLs with your own hosted visuals for full customization!
+Visit https://skillicons.dev/ for more skill badge icons.
 -->
